@@ -1,4 +1,4 @@
-# EasyChargeSystem
+# Smart Charge Manager
 
 ## About the Project
 This project is a comprehensive **Charging Station Infrastructure Management System** designed to handle complex relationships between charging stations, available ports, and vehicle queues.
